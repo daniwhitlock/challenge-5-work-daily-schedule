@@ -7,5 +7,8 @@
 [Daily-Calendar](https://daniwhitlock.github.io/challenge-5-work-daily-schedule/)
 
 ## Visual of Live Website
-![/images/
+![Image 1](/assets/images/image-1.JPG)
+![Image 2](/assets/images/image-2.JPG)
+
+
 
